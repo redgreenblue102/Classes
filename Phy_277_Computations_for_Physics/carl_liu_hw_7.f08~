@@ -1,0 +1,46 @@
+!Name: Carl_Liu
+!Oct 27 2023
+!Computes the integral given in the assignment using simpson's rule
+program simpson
+  implicit none
+  integer :: intervals !Number of subintervals used
+  real :: sum !sum of all the subintervals
+  real :: dx !length of subintervals
+  real :: xi !starting value of x at ith subinterval
+  real :: fi, fipd, fip1 !value of function at ith subinterval at points
+  !of starting, middle, and end of subinterval 
+  integer :: i !variable for incrementing index
+  real :: start = 1.0  !Starting x for the integral
+  real :: end = 20.0 !Ending x for the integral
+  real, parameter  :: A = 4000.0 !constant term given
+  real, parameter :: B = 15.15 !constant term given
+  real, parameter :: C = 0.01 !constant term given
+  real :: dxd2 !Half a subinterval
+  write(*,*) "Input number of subintervals"
+  read(*,*) intervals
+  
+  dx = 19.0/(1.0 *intervals) !Calculating length of subintervals
+  dxd2 = dx/2.0
+  sum = 0.0
+  xi = start
+  do i=1, intervals, 1 !integrating by summing over subintervals
+    !using simpsons rule
+    fi = (xi+cos(xi))*exp(cos(xi)) + A*exp((-(xi-B)**2)/C)
+    !calculating value at left side of subinterval
+    xi = xi+dxd2
+    !Increasing evaluation value by half a subinterval
+    fipd = (xi+cos(xi))*exp(cos(xi)) + a*exp((-(xi-b)**2)/c)
+    !calculating value at midpoint of subinterval
+    xi = xi+dxd2
+    !increasing evaluation value by half a subinterval
+    fip1 =  (xi+cos(xi))*exp(cos(xi)) + a*exp((-(xi-b)**2)/c)
+    !calculating value at right side of subinterval 
+    sum = sum+ (fi+(4*fipd)+fip1) 
+    !adding together using simpsons rule 
+  enddo
+  sum = sum *dx/6.0 !finishing using simpsons rule
+  
+  write(*,*) sum, "is the value of the integral"
+  
+  stop 0
+end program
