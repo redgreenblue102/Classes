@@ -1,0 +1,735 @@
+
+{
+    "startHour":"8",
+    "endHour":"21",
+    "instructor_tas":[
+    ],
+    "grad_tas":[
+        {
+            "name":"Avinash Kalivarapu",
+            "email":"akalivarapu@cs.stonybrook.edu",
+            "office_hours_link":"",
+            "type":"Graduate"
+        }
+    ],
+    "undergrad_tas":[
+        {
+            "name":"Lecture",
+            "email":"lecture@lecture.com",
+            "office_hours_link":"",
+            "type":"Undergraduate"
+        },
+        {
+            "name":"McKenna",
+            "email":"richard@cs.stonybrook.edu",
+            "office_hours_link":"",
+            "type":"Undergraduate"
+        }
+    ],
+    "officeHours":[
+        {
+            "time":"09_00am",
+            "day":"TUESDAY",
+            "office_hours_link":"",
+            "name":"Lecture"
+        },
+        {
+            "time":"09_00am",
+            "day":"THURSDAY",
+            "office_hours_link":"",
+            "name":"Lecture"
+        },
+        {
+            "time":"09_30am",
+            "day":"TUESDAY",
+            "office_hours_link":"",
+            "name":"Lecture"
+        },
+        {
+            "time":"09_30am",
+            "day":"THURSDAY",
+            "office_hours_link":"",
+            "name":"Lecture"
+        },
+        {
+            "time":"10_00am",
+            "day":"TUESDAY",
+            "office_hours_link":"",
+            "name":"Lecture"
+        },
+        {
+            "time":"10_00am",
+            "day":"THURSDAY",
+            "office_hours_link":"",
+            "name":"Lecture"
+        },
+        {
+            "time":"10_30am",
+            "day":"TUESDAY",
+            "office_hours_link":"",
+            "name":"Lecture"
+        },
+        {
+            "time":"10_30am",
+            "day":"THURSDAY",
+            "office_hours_link":"",
+            "name":"Lecture"
+        },
+        {
+            "time":"11_00am",
+            "day":"TUESDAY",
+            "office_hours_link":"",
+            "name":"Lecture"
+        },
+        {
+            "time":"11_00am",
+            "day":"THURSDAY",
+            "office_hours_link":"",
+            "name":"Lecture"
+        },
+        {
+            "time":"11_30am",
+            "day":"TUESDAY",
+            "office_hours_link":"",
+            "name":"Lecture"
+        },
+        {
+            "time":"11_30am",
+            "day":"THURSDAY",
+            "office_hours_link":"",
+            "name":"Lecture"
+        },
+        {
+            "time":"12_00pm",
+            "day":"MONDAY",
+            "office_hours_link":"",
+            "name":"Avinash Kalivarapu"
+        },
+        {
+            "time":"12_00pm",
+            "day":"TUESDAY",
+            "office_hours_link":"",
+            "name":"Lecture"
+        },
+        {
+            "time":"12_00pm",
+            "day":"WEDNESDAY",
+            "office_hours_link":"",
+            "name":"Avinash Kalivarapu"
+        },
+        {
+            "time":"12_00pm",
+            "day":"THURSDAY",
+            "office_hours_link":"",
+            "name":"Lecture"
+        },
+        {
+            "time":"12_00pm",
+            "day":"FRIDAY",
+            "office_hours_link":"",
+            "name":"Avinash Kalivarapu"
+        },
+        {
+            "time":"12_30pm",
+            "day":"MONDAY",
+            "office_hours_link":"",
+            "name":"Avinash Kalivarapu"
+        },
+        {
+            "time":"12_30pm",
+            "day":"TUESDAY",
+            "office_hours_link":"",
+            "name":"Lecture"
+        },
+        {
+            "time":"12_30pm",
+            "day":"WEDNESDAY",
+            "office_hours_link":"",
+            "name":"Avinash Kalivarapu"
+        },
+        {
+            "time":"12_30pm",
+            "day":"THURSDAY",
+            "office_hours_link":"",
+            "name":"Lecture"
+        },
+        {
+            "time":"12_30pm",
+            "day":"FRIDAY",
+            "office_hours_link":"",
+            "name":"Avinash Kalivarapu"
+        },
+        {
+            "time":"01_00pm",
+            "day":"MONDAY",
+            "office_hours_link":"",
+            "name":"Avinash Kalivarapu"
+        },
+        {
+            "time":"01_00pm",
+            "day":"TUESDAY",
+            "office_hours_link":"",
+            "name":"Lecture"
+        },
+        {
+            "time":"01_00pm",
+            "day":"WEDNESDAY",
+            "office_hours_link":"",
+            "name":"Avinash Kalivarapu"
+        },
+        {
+            "time":"01_00pm",
+            "day":"THURSDAY",
+            "office_hours_link":"",
+            "name":"Lecture"
+        },
+        {
+            "time":"01_00pm",
+            "day":"FRIDAY",
+            "office_hours_link":"",
+            "name":"Avinash Kalivarapu"
+        },
+        {
+            "time":"01_30pm",
+            "day":"MONDAY",
+            "office_hours_link":"",
+            "name":"Avinash Kalivarapu"
+        },
+        {
+            "time":"01_30pm",
+            "day":"TUESDAY",
+            "office_hours_link":"",
+            "name":"McKenna"
+        },
+        {
+            "time":"01_30pm",
+            "day":"WEDNESDAY",
+            "office_hours_link":"",
+            "name":"Avinash Kalivarapu"
+        },
+        {
+            "time":"01_30pm",
+            "day":"THURSDAY",
+            "office_hours_link":"",
+            "name":"McKenna"
+        },
+        {
+            "time":"01_30pm",
+            "day":"FRIDAY",
+            "office_hours_link":"",
+            "name":"Avinash Kalivarapu"
+        },
+        {
+            "time":"02_00pm",
+            "day":"TUESDAY",
+            "office_hours_link":"",
+            "name":"McKenna"
+        },
+        {
+            "time":"02_00pm",
+            "day":"THURSDAY",
+            "office_hours_link":"",
+            "name":"McKenna"
+        }
+    ],
+    "subject":"CSE",
+    "number":"216",
+    "semester":"Summer I",
+    "year":"2024",
+    "title":"Programming Abstractions",
+    "export_dir":"..\\..\\..\\Stony Brook\\Courses\\CSE216\\216_2024_Summer\\public_html",
+    "site_template_dir":"site_template_216_summer",
+    "logos":{
+        "favicon":{
+            "href":"./images/SBUShieldFavicon.png"
+        },
+        "navbar":{
+            "src":"./images/SBUDarkRedShieldLogo.png"
+        },
+        "bottom_left":{
+            "src":"./images/SBUWhiteShieldLogo.jpg"
+        },
+        "bottom_right":{
+            "src":"./images/SBUCSLogo.png"
+        }
+    },
+    "css":"sea_wolf.css",
+    "pages":[
+        {
+            "name":"Home",
+            "link":"index.html"
+        },
+        {
+            "name":"Syllabus",
+            "link":"syllabus.html"
+        },
+        {
+            "name":"Schedule",
+            "link":"schedule.html"
+        },
+        {
+            "name":"HWs",
+            "link":"hws.html"
+        }
+    ],
+    "instructor":{
+        "name":"Richard McKenna",
+        "link":"http://www.cs.stonybrook.edu/~richard",
+        "email":"richard@cs.stonybrook.edu",
+        "room":"Zoom",
+        "hours":[
+            {
+                "day":"Tuesday",
+                "time":"Immediately After Class"
+            },
+            {
+                "day":"Thursday",
+                "time":"Immediately After Class"
+            }
+        ]
+    },
+    "startingMondayYear":2024,
+    "startingMondayMonth":5,
+    "startingMondayDay":20,
+    "endingFridayYear":2024,
+    "endingFridayMonth":7,
+    "endingFridayDay":5,
+    "hws":[
+        {
+            "title":"HW 1",
+            "topic":"C++<br />(due @11:59pm)",
+            "link":"./hw/HW1.html",
+            "type":"HW",
+            "year":2024,
+            "month":6,
+            "day":5
+        },
+        {
+            "title":"HW 2",
+            "topic":"JavaScript/TypeScript<br />(due @11:59pm)",
+            "link":"none",
+            "type":"HW",
+            "year":2024,
+            "month":6,
+            "day":11
+        },
+        {
+            "title":"HW 3",
+            "topic":"Haskell<br />(due at 11:59pm)",
+            "link":"none",
+            "type":"HW",
+            "year":2024,
+            "month":6,
+            "day":18
+        },
+        {
+            "title":"HW 4",
+            "topic":"Python<br />(due at 11:59 pm)",
+            "link":"none",
+            "type":"HW",
+            "year":2024,
+            "month":6,
+            "day":24
+        }
+    ],
+    "labs":[
+    ],
+    "references":[
+        {
+            "title":"Reference",
+            "topic":"C++ with Visual Studio Code",
+            "link":"https://code.visualstudio.com/docs/languages/cpp",
+            "type":"Reference",
+            "year":2024,
+            "month":5,
+            "day":28
+        },
+        {
+            "title":"Reference",
+            "topic":"TypeScript Example",
+            "link":"https://mycourses.stonybrook.edu/d2l/le/content/679639/viewContent/20196226/View",
+            "type":"Reference",
+            "year":2024,
+            "month":6,
+            "day":6
+        },
+        {
+            "title":"Reference",
+            "topic":"TypeScript Tutorial",
+            "link":"https://code.visualstudio.com/docs/typescript/typescript-tutorial",
+            "type":"Reference",
+            "year":2024,
+            "month":6,
+            "day":6
+        },
+        {
+            "title":"Reference",
+            "topic":"Learn You a Haskell for Great Good!",
+            "link":"http://learnyouahaskell.com/chapters",
+            "type":"Reference",
+            "year":2024,
+            "month":6,
+            "day":11
+        },
+        {
+            "title":"Reference",
+            "topic":"Haskell Cheat Sheet",
+            "link":"https://hackage.haskell.org/package/CheatSheet-1.11/src/CheatSheet.pdf",
+            "type":"Reference",
+            "year":2024,
+            "month":6,
+            "day":11
+        },
+        {
+            "title":"Reference",
+            "topic":"Python Examples",
+            "link":"https://onlinegdb.com/VynaE6KRS",
+            "type":"Reference",
+            "year":2024,
+            "month":6,
+            "day":18
+        }
+    ],
+    "recitations":[
+    ],
+    "holidays":[
+        {
+            "title":"MEMORIAL DAY",
+            "topic":"",
+            "link":"https://www.stonybrook.edu/commcms/registrar/calendars/academic_calendars.php",
+            "type":"Holiday",
+            "year":2024,
+            "month":5,
+            "day":27
+        },
+        {
+            "title":"JUNETEENTH",
+            "topic":"",
+            "link":"https://www.stonybrook.edu/commcms/registrar/calendars/academic_calendars.php",
+            "type":"Holiday",
+            "year":2024,
+            "month":6,
+            "day":19
+        },
+        {
+            "title":"",
+            "topic":"",
+            "link":"none",
+            "type":"Holiday",
+            "year":2024,
+            "month":7,
+            "day":1
+        },
+        {
+            "title":"",
+            "topic":"",
+            "link":"none",
+            "type":"Holiday",
+            "year":2024,
+            "month":7,
+            "day":2
+        },
+        {
+            "title":"",
+            "topic":"",
+            "link":"none",
+            "type":"Holiday",
+            "year":2024,
+            "month":7,
+            "day":3
+        },
+        {
+            "title":"",
+            "topic":"",
+            "link":"none",
+            "type":"Holiday",
+            "year":2024,
+            "month":7,
+            "day":4
+        },
+        {
+            "title":"",
+            "topic":"",
+            "link":"none",
+            "type":"Holiday",
+            "year":2024,
+            "month":7,
+            "day":5
+        }
+    ],
+    "lectures":[
+        {
+            "title":"Lecture 1",
+            "topic":"Introduction",
+            "link":"https://mycourses.stonybrook.edu/d2l/le/content/1425434/viewContent/35208730/View",
+            "type":"Lecture",
+            "year":2024,
+            "month":5,
+            "day":21
+        },
+        {
+            "title":"Zoom Recording",
+            "topic":"Passcode: 57&H&%0C",
+            "link":"https://stonybrook.zoom.us/rec/share/7K_t5fRSVMpy-WqoKeaFWREINec1OOMm2G1myYlt3wpH61NClyz0HWaTFrmFL1pj.wLj2E2Qkpleh8rid",
+            "type":"Lecture",
+            "year":2024,
+            "month":5,
+            "day":21
+        },
+        {
+            "title":"Lecture 2",
+            "topic":"OOP++",
+            "link":"https://mycourses.stonybrook.edu/d2l/le/content/1425434/viewContent/35208732/View",
+            "type":"Lecture",
+            "year":2024,
+            "month":5,
+            "day":23
+        },
+        {
+            "title":"Zoom Recording",
+            "topic":"Passcode: %FSF981e",
+            "link":"https://stonybrook.zoom.us/rec/share/y3DBDwnQ_6h8OkuQCkXpxK978hQbB2PI5P8-annJeSun8k60FewqF2QqJPf8g6eg.V8jjvGZEOzlAsjrh",
+            "type":"Lecture",
+            "year":2024,
+            "month":5,
+            "day":23
+        },
+        {
+            "title":"Lecture 3",
+            "topic":"C++ Boot Camp",
+            "link":"https://mycourses.stonybrook.edu/d2l/le/content/1425434/viewContent/35283659/View",
+            "type":"Lecture",
+            "year":2024,
+            "month":5,
+            "day":28
+        },
+        {
+            "title":"Lecture Example",
+            "topic":"Payroll Program",
+            "link":"https://mycourses.stonybrook.edu/d2l/le/content/1425434/viewContent/35283765/View",
+            "type":"Lecture",
+            "year":2024,
+            "month":5,
+            "day":28
+        },
+        {
+            "title":"Lecture Example",
+            "topic":"jTPS",
+            "link":"https://github.com/TheMcKillaGorilla/jTPS",
+            "type":"Lecture",
+            "year":2024,
+            "month":5,
+            "day":28
+        },
+        {
+            "title":"Zoom Recording",
+            "topic":"Passcode: +?5FCPqK",
+            "link":"https://stonybrook.zoom.us/rec/share/eC_B4wTojgVGPNh9AOSp5cKJVztLkCCWWxK2lY4BQomQBq7Pysn5pp2WdRY02FZK.AcaUna3jGsgRCG5e",
+            "type":"Lecture",
+            "year":2024,
+            "month":5,
+            "day":28
+        },
+        {
+            "title":"Lecture 4",
+            "topic":"Programming Paradigms",
+            "link":"https://mycourses.stonybrook.edu/d2l/le/content/1425434/viewContent/35610153/View",
+            "type":"Lecture",
+            "year":2024,
+            "month":5,
+            "day":30
+        },
+        {
+            "title":"Zoom Recording",
+            "topic":"Passcode: c&yrwyS7",
+            "link":"https://stonybrook.zoom.us/rec/share/OMrBmICxIZONScEQ87Zc58r1gmr9yXPQT3BjxS3J5pEToXnySn8jV6wAc9kh_0yO.n5hOuAdH-tBH2wxQ",
+            "type":"Lecture",
+            "year":2024,
+            "month":5,
+            "day":30
+        },
+        {
+            "title":"Lecture 5",
+            "topic":"JavaScript",
+            "link":"https://mycourses.stonybrook.edu/d2l/le/content/1425434/viewContent/35639397/View",
+            "type":"Lecture",
+            "year":2024,
+            "month":6,
+            "day":4
+        },
+        {
+            "title":"Lecture 6",
+            "topic":"Type Systems",
+            "link":"none",
+            "type":"Lecture",
+            "year":2024,
+            "month":6,
+            "day":6
+        },
+        {
+            "title":"Lecture 7a",
+            "topic":"Polymorphism",
+            "link":"none",
+            "type":"Lecture",
+            "year":2024,
+            "month":6,
+            "day":11
+        },
+        {
+            "title":"Lecture 7b",
+            "topic":"Parameter Passing<br />&amp; Lambda Calculus",
+            "link":"none",
+            "type":"Lecture",
+            "year":2024,
+            "month":6,
+            "day":11
+        },
+        {
+            "title":"MIDTERM EXAM",
+            "topic":"<ul><li>Lectures 1-7</li><li>HWs 1-2</li></ul>",
+            "link":"none",
+            "type":"Lecture",
+            "year":2024,
+            "month":6,
+            "day":13
+        },
+        {
+            "title":"Lecture 8",
+            "topic":"Functional Programming<br />with Haskell",
+            "link":"none",
+            "type":"Lecture",
+            "year":2024,
+            "month":6,
+            "day":13
+        },
+        {
+            "title":"Lecture Examples",
+            "topic":"Haskell Examples",
+            "link":"https://onlinegdb.com/FtHsqty3z",
+            "type":"Lecture",
+            "year":2024,
+            "month":6,
+            "day":13
+        },
+        {
+            "title":"Lecture Examples",
+            "topic":"Haskell Book Examples",
+            "link":"https://onlinegdb.com/P4Q_1XlaI",
+            "type":"Lecture",
+            "year":2024,
+            "month":6,
+            "day":13
+        },
+        {
+            "title":"Lecture 9a",
+            "topic":"Version Control",
+            "link":"none",
+            "type":"Lecture",
+            "year":2024,
+            "month":6,
+            "day":18
+        },
+        {
+            "title":"Lecture 9b",
+            "topic":"Python",
+            "link":"none",
+            "type":"Lecture",
+            "year":2024,
+            "month":6,
+            "day":18
+        },
+        {
+            "title":"Lecture 10",
+            "topic":"Concurrent<br />Programming",
+            "link":"none",
+            "type":"Lecture",
+            "year":2024,
+            "month":6,
+            "day":20
+        },
+        {
+            "title":"Lecture 11",
+            "topic":"Final Exam Review",
+            "link":"none",
+            "type":"Lecture",
+            "year":2024,
+            "month":6,
+            "day":25
+        },
+        {
+            "title":"FINAL EXAM",
+            "topic":"(9am-2pm)",
+            "link":"none",
+            "type":"Lecture",
+            "year":2024,
+            "month":6,
+            "day":27
+        }
+    ],
+    "description":"Intermediate-level programming concepts and paradigms, including functional programming, object-orientation, basics of type systems, memory management, program and data abstractions, parameter passing, modularity, version control, and parallel programming. Includes weekly recitations, which provide students with experience in the practice of programming in a variety of high-level languages.",
+    "topics":[
+        "Programming Language Paradigms",
+        "Functional problem-solving using a high-level functional language",
+        "Object-oriented design and programming",
+        "Cross-cutting programming language concepts",
+        "Version control"
+    ],
+    "prerequisites":"C or higher in CSE 214; CSE major",
+    "outcomes":[
+        "An understanding of programming language paradigms and tradeoffs.",
+        "An understanding of functional techniques to identify, formulate and solve problems.",
+        "An ability to apply techniques of object-oriented programming in the context of software development."
+    ],
+    "textbooks":[
+        {
+            "title":"Programming Language Pragmatics, 3rd Edition",
+            "link":"https://www.elsevier.com/books/programming-language-pragmatics/unknown/978-0-12-374514-9",
+            "photo":"./images/ProgrammingLanguagePragmatics.jpg",
+            "authors":[
+                "Michael Scott"
+            ],
+            "publisher":"Morgan Kaufmann",
+            "year":"2009"
+        }
+    ],
+    "gradedComponents":[
+        {
+            "name":"Lecture Attendance/Quizzes",
+            "description":"Attendance participation will be recorded each lecture. In addition, quizzes will sometimes be given on the material covered in lecture that day.",
+            "weight":"10"
+        },
+        {
+            "name":"Homework Assignments",
+            "description":"Students will be asked to solve problems in various programming languages in the homework assignments. Submitted code that does not compile will receive no credit. Late submissions will NOT be accepted. Programming assignments will be handed in electronically via <a href='http://blackboard.stonybrook.edu'>Blackboard</a>.",
+            "weight":"40"
+        },
+        {
+            "name":"Midterm Exam",
+            "description":"The midterm will cover all lecture, recitation, and homework materials covered during the first 1/2 of the semester.",
+            "weight":"20"
+        },
+        {
+            "name":"Final Exam",
+            "description":"The final will be a practical (i.e. coding), cumulative exam and will cover material covered during the semester.",
+            "weight":"30"
+        }
+    ],
+    "gradingNote":"<strong>Note CEAS Policy:</strong> The Pass/No Credit (P/NC) option is not available for this course.",
+    "academicDishonesty":"You may <em>discuss</em> the homework in this course with anyone you like, however each student's submissionmust be ones own work.<br /><br />The College of Engineering and Applied Sciences regards academic dishonesty as a very serious matter, and provides for substantial penalties in such cases. For more information, obtain a copy of the CEAS guidelines on academic dishonesty from the CEAS office.<br /><br /><strong>Be advised that any evidence of academic dishonesty will be treated with utmost seriousness. If you have a situation that may tempt you into doing something academically dishonest, resist the urge and speak with your instructor during office hours for help.</strong><br /><br />",
+    "specialAssistance":"If you have a physical, psychological, medical or learning disability that may impact on your ability to carry out assigned course work, I would urge that you contact the staff at the <a href='https://www.stonybrook.edu/dss/'>Student Accessibility Support Center</a> (SASC) in the ECC building, 632-6748. SASC will review your concerns and determine with you what accommodations are necessary and appropriate. All information and documentation of disability are confidential.<br /><br /><br /><br />",
+    "lecture_sections":[
+        {
+            "section":"30",
+            "days":"TuTh",
+            "time":"9:00am-1:25pm",
+            "day_time":"M/W 9am-1:25pm",
+            "room":"(online)",
+            "ta_1":"?",
+            "ta_2":"?"
+        }
+    ],
+    "lab_sections":[
+    ],
+    "recitation_sections":[
+    ]
+}
