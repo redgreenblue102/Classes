@@ -1,1 +1,1 @@
-This repository is homework i've done for some of my classes.
+This repository is for work i've done for some of my classes.
