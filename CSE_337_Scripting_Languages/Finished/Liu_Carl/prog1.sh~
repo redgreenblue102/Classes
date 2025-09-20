@@ -1,0 +1,13 @@
+#!/bin/bash
+read -p "Input name of project directory: " DIR
+read -p "Input name of backup directory: " BDIR
+if [[ -d $DIR ]] then;
+dir=1
+while [[ $dir -ne  0]];
+do
+
+  
+else;
+  echo "$DIR does not found"
+  exit 0
+end;
